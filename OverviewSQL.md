@@ -19,6 +19,11 @@ i.e. good database design would have a contact w first name, last name, then a s
 -- so idea is here ask more questions and create more tables\
 -- may be a good idea to re-imagine my hotel project with reservations - no longer in an array - but a sep talbe that will have a foreign key with lists of reservations\
 <br/>
+table names - singular naming convention\
+the name of the table, as a best practice should be about what each row is going to be about, represent\
+so table naming could have exceptions where the topic of the rows in the table will be plural in context, in that case a plural table name would work\
+some say to use table name as a prefix to the column name\
+
 
 
 
