@@ -23,6 +23,17 @@ table names - singular naming convention\
 the name of the table, as a best practice should be about what each row is going to be about, represent\
 so table naming could have exceptions where the topic of the rows in the table will be plural in context, in that case a plural table name would work\
 some say to use table name as a prefix to the column name\
+<br/>
+Some notes on data types:\
+CHAR - character - static setting of values to hold\
+VARCHAR - varying character - dynamic setting of values to hold\
+BOOLEAN  - T/f\
+INTEGER\
+BIGINT  - these will have some neg through positive possibilities\
+DATE - YYYY-MM-DD\
+TIME - HH:MM:SS[.sF] - F is fractional second\
+TIMESTAMP - both date and time\
+\
 
 
 
