@@ -33,3 +33,6 @@ SELECT p.first_name, p.last_name FROM person p;
 
 -- this is the marker of a comment
 /* but this can also be used as well */
+
+-- can also specify the way a table column name will appear:
+SELECT p.first_name as FirstName FROM person p;
